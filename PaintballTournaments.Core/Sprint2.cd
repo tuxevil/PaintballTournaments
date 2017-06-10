@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Release Date:&#xD;&#xA;23/5/2010">
+    <Position X="9.219" Y="3.438" Height="0.479" Width="0.992" />
+  </Comment>
+  <Class Name="PaintballTournaments.Core.Tournaments.Layout">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gACABASAAAAAAAAAAAAABAAAAACAAAAAAAAAAAABgAA=</HashCode>
+      <FileName>Tournaments\Layout.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="LayoutTemplate" />
+      <Property Name="Field" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="BunkerPositions" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.BunkerPosition">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhhAAAIYQA=</HashCode>
+      <FileName>Tournaments\BunkerPosition.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Bunker" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.Bunker">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAQAAAAEQAAAAEAAgAAAAIAAAAAAA=</HashCode>
+      <FileName>Tournaments\Bunker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.LayoutTemplate">
+    <Position X="5.5" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAABAQAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tournaments\LayoutTemplate.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="BunkerPositions" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.Event">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gCCAAIwAoAQAQKAAAAAAAgAYCAAAEAAIQAACCEEgkhA=</HashCode>
+      <FileName>Tournaments\Event.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Layout" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Categories" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Commercials.Field">
+    <Position X="2.5" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAQAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commercials\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.Category">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgCQEAIAkQAAABkAAAAADQAAAAUAAAAQAIIAAACCAA=</HashCode>
+      <FileName>Tournaments\Category.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Fixture" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.Fixture">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAIAAAAACAAAABgAAAAAAAQAAABEQAAICAIAGAgCAA=</HashCode>
+      <FileName>Tournaments\Fixture.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Category" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="FixtureSelections" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.FixtureSelection">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAASAA=</HashCode>
+      <FileName>Tournaments\FixtureSelection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

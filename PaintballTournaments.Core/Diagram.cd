@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PaintballTournaments.Core.Accounts.Organizer" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Accounts\Organizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Accounts.Player">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAoAAAAIAAAAAAAASAAAAEgAAAAAAgAA=</HashCode>
+      <FileName>Accounts\Player.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Team" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Accounts.Sponsor">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAIAAAACAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAA=</HashCode>
+      <FileName>Accounts\Sponsor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Store" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Commercials.Store">
+    <Position X="3" Y="7.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commercials\Store.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Commercials.Field">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAQAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commercials\Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Groups.Team">
+    <Position X="15" Y="3" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAQAACAEAAAgAAAAQAAAAkAAAAIAAAAAAAIAA=</HashCode>
+      <FileName>Groups\Team.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Captain" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Players" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Groups.Selection">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAEAAAAgAAAEAAAAAAQAAABAwAAAAcAgIEAAAKAA=</HashCode>
+      <FileName>Groups\Selection.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Team" />
+      <Property Name="Captain" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Players" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Locations.State">
+    <Position X="13" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAEAAAAAAEAAAAAAAAAAAAAAAAAABBAAAAA=</HashCode>
+      <FileName>Locations\State.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Cities" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Locations.City">
+    <Position X="11" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Locations\City.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Locations.Country">
+    <Position X="15" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAQAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAACAA=</HashCode>
+      <FileName>Locations\Country.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="States" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.Bunker">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAQAAAAEQAAAAEAAgAAAAIAAAAAAA=</HashCode>
+      <FileName>Tournaments\Bunker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.SubMode">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAACAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tournaments\SubMode.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Mode" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.BunkerPosition">
+    <Position X="9" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhhAAAIYQA=</HashCode>
+      <FileName>Tournaments\BunkerPosition.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Bunker" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.Category">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgCQEAIAkQAAABkAAAAADQAAAAUAAAAQAIIAAACCAA=</HashCode>
+      <FileName>Tournaments\Category.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Fixture" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.Event">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gCCAAIwAoAQAQKAAAAAAAgAYCAAAEAAIQAACCEEgkhA=</HashCode>
+      <FileName>Tournaments\Event.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Field" />
+      <Property Name="Layout" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Categories" />
+      <Property Name="Prizes" />
+      <Property Name="Sponsors" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.Fixture">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAIAAAAACAAAABgAAAAAAAQAAABEQAAICAIAGAgCAA=</HashCode>
+      <FileName>Tournaments\Fixture.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Category" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="FixtureSelections" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.FixtureSelection">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAASAA=</HashCode>
+      <FileName>Tournaments\FixtureSelection.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Selection" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.Layout">
+    <Position X="7" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gACABASAAAAAAAAAAAAABAAAAACAAAAAAAAAAAABgAA=</HashCode>
+      <FileName>Tournaments\Layout.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="LayoutTemplate" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="BunkerPositions" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.LayoutTemplate">
+    <Position X="7" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAABAQAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tournaments\LayoutTemplate.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="BunkerPositions" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.League">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AGCAAAAAoICAAqBAgAAAAAQICgAMAAIACAAAAAEoEBA=</HashCode>
+      <FileName>Tournaments\League.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="SubMode" />
+      <Property Name="Organizer" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Prizes" />
+      <Property Name="Events" />
+      <Property Name="Sponsors" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.Mode">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAEQAAABEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tournaments\Mode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PaintballTournaments.Core.Tournaments.Prize">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAQAgAAAAIAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Tournaments\Prize.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Sponsor" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

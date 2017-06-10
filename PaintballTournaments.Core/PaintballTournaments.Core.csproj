@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B6429EF2-77C8-4D3A-BB8C-886082CB0645}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PaintballTournaments.Core</RootNamespace>
+    <AssemblyName>PaintballTournaments.Core</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Iesi.Collections, Version=1.0.1.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\sharp-architecture\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\sharp-architecture\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=3.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\sharp-architecture\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.Validator, Version=1.2.0.2003, Culture=neutral, PublicKeyToken=b5f559ae0ac4e006, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\sharp-architecture\NHibernate.Validator.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpArch.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b5f559ae0ac4e006, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\sharp-architecture\SharpArch.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpArch.Core.NHibernateValidator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=b5f559ae0ac4e006, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\lib\sharp-architecture\SharpArch.Core.NHibernateValidator.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accounts\BasicUser.cs" />
+    <Compile Include="Accounts\Organizer.cs" />
+    <Compile Include="Accounts\Player.cs" />
+    <Compile Include="Accounts\Sponsor.cs" />
+    <Compile Include="Accounts\UserType.cs" />
+    <Compile Include="Commercials\BasicCommercial.cs" />
+    <Compile Include="Commercials\SponsorType.cs" />
+    <Compile Include="Commercials\Store.cs" />
+    <Compile Include="DataInterfaces\IBunkerPositionRepository.cs" />
+    <Compile Include="DataInterfaces\IBunkerRepository.cs" />
+    <Compile Include="DataInterfaces\ICityRepository.cs" />
+    <Compile Include="DataInterfaces\IFieldRepository.cs" />
+    <Compile Include="DataInterfaces\ILayoutRepository.cs" />
+    <Compile Include="DataInterfaces\ILayoutTemplateRepository.cs" />
+    <Compile Include="Groups\PlayerPosition.cs" />
+    <Compile Include="Groups\Selection.cs" />
+    <Compile Include="Groups\Team.cs" />
+    <Compile Include="Commercials\Field.cs" />
+    <Compile Include="Locations\BasicLocation.cs" />
+    <Compile Include="Locations\City.cs" />
+    <Compile Include="Locations\Country.cs" />
+    <Compile Include="Locations\State.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tournaments\Bunker.cs" />
+    <Compile Include="Tournaments\BunkerPosition.cs" />
+    <Compile Include="Tournaments\Category.cs" />
+    <Compile Include="Tournaments\CategoryType.cs" />
+    <Compile Include="Tournaments\Event.cs" />
+    <Compile Include="Tournaments\Fixture.cs" />
+    <Compile Include="Tournaments\FixtureSelection.cs" />
+    <Compile Include="Tournaments\Layout.cs" />
+    <Compile Include="Tournaments\LayoutTemplate.cs" />
+    <Compile Include="Tournaments\League.cs" />
+    <Compile Include="Tournaments\Mode.cs" />
+    <Compile Include="Tournaments\Prize.cs" />
+    <Compile Include="Tournaments\Rank.cs" />
+    <Compile Include="Tournaments\SubMode.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Diagram.cd" />
+    <None Include="Sprint1.cd" />
+    <None Include="Sprint2.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

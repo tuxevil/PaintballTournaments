@@ -1,0 +1,132 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintballTournaments.Web", "PaintballTournaments\PaintballTournaments.Web.csproj", "{754A1E74-F50B-4C33-BBC3-1AD0BFC2298F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintballTournaments.Tests", "PaintballTournaments.Tests\PaintballTournaments.Tests.csproj", "{E934CDD4-A07B-4E88-8FE0-63B7B96C2973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintballTournaments.Web.Controllers", "PaintballTournaments.Controllers\PaintballTournaments.Web.Controllers.csproj", "{B7845F2A-45DD-4874-88A6-99CA9BD7CF81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintballTournaments.Core", "PaintballTournaments.Core\PaintballTournaments.Core.csproj", "{B6429EF2-77C8-4D3A-BB8C-886082CB0645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintballTournaments.Data", "PaintballTournaments.Data\PaintballTournaments.Data.csproj", "{DF38A9C7-58B4-46D1-9B90-6F3176F306FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{0CF7C6DA-0A9F-4E1F-B8DB-A2A88EE0C5A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sharp-architecture", "sharp-architecture", "{1638968D-DC38-4D76-AC43-95602DA5AB6E}"
+	ProjectSection(SolutionItems) = preProject
+		..\FashionAde\lib\sharp-architecture\Antlr3.Runtime.dll = ..\FashionAde\lib\sharp-architecture\Antlr3.Runtime.dll
+		..\FashionAde\lib\sharp-architecture\Castle.Components.Validator.dll = ..\FashionAde\lib\sharp-architecture\Castle.Components.Validator.dll
+		..\FashionAde\lib\sharp-architecture\Castle.Core.dll = ..\FashionAde\lib\sharp-architecture\Castle.Core.dll
+		..\FashionAde\lib\sharp-architecture\Castle.Core.xml = ..\FashionAde\lib\sharp-architecture\Castle.Core.xml
+		..\FashionAde\lib\sharp-architecture\Castle.DynamicProxy.license.txt = ..\FashionAde\lib\sharp-architecture\Castle.DynamicProxy.license.txt
+		..\FashionAde\lib\sharp-architecture\Castle.DynamicProxy2.dll = ..\FashionAde\lib\sharp-architecture\Castle.DynamicProxy2.dll
+		..\FashionAde\lib\sharp-architecture\Castle.DynamicProxy2.xml = ..\FashionAde\lib\sharp-architecture\Castle.DynamicProxy2.xml
+		..\FashionAde\lib\sharp-architecture\Castle.MicroKernel.dll = ..\FashionAde\lib\sharp-architecture\Castle.MicroKernel.dll
+		..\FashionAde\lib\sharp-architecture\Castle.MicroKernel.xml = ..\FashionAde\lib\sharp-architecture\Castle.MicroKernel.xml
+		..\FashionAde\lib\sharp-architecture\Castle.Services.Logging.Log4netIntegration.dll = ..\FashionAde\lib\sharp-architecture\Castle.Services.Logging.Log4netIntegration.dll
+		..\FashionAde\lib\sharp-architecture\Castle.Services.Logging.Log4netIntegration.xml = ..\FashionAde\lib\sharp-architecture\Castle.Services.Logging.Log4netIntegration.xml
+		..\FashionAde\lib\sharp-architecture\Castle.Windsor.dll = ..\FashionAde\lib\sharp-architecture\Castle.Windsor.dll
+		..\FashionAde\lib\sharp-architecture\Castle.Windsor.xml = ..\FashionAde\lib\sharp-architecture\Castle.Windsor.xml
+		..\FashionAde\lib\sharp-architecture\CommonServiceLocator.WindsorAdapter.dll = ..\FashionAde\lib\sharp-architecture\CommonServiceLocator.WindsorAdapter.dll
+		..\FashionAde\lib\sharp-architecture\FluentNHibernate.dll = ..\FashionAde\lib\sharp-architecture\FluentNHibernate.dll
+		..\FashionAde\lib\sharp-architecture\FluentNHibernate.XML = ..\FashionAde\lib\sharp-architecture\FluentNHibernate.XML
+		..\FashionAde\lib\sharp-architecture\Gallio.dll = ..\FashionAde\lib\sharp-architecture\Gallio.dll
+		..\FashionAde\lib\sharp-architecture\Iesi.Collections.dll = ..\FashionAde\lib\sharp-architecture\Iesi.Collections.dll
+		..\FashionAde\lib\sharp-architecture\Iesi.Collections.license.txt = ..\FashionAde\lib\sharp-architecture\Iesi.Collections.license.txt
+		..\FashionAde\lib\sharp-architecture\Iesi.Collections.xml = ..\FashionAde\lib\sharp-architecture\Iesi.Collections.xml
+		..\FashionAde\lib\sharp-architecture\Inflector.Net.dll = ..\FashionAde\lib\sharp-architecture\Inflector.Net.dll
+		..\FashionAde\lib\sharp-architecture\log4net.dll = ..\FashionAde\lib\sharp-architecture\log4net.dll
+		..\FashionAde\lib\sharp-architecture\log4net.license.txt = ..\FashionAde\lib\sharp-architecture\log4net.license.txt
+		..\FashionAde\lib\sharp-architecture\log4net.xml = ..\FashionAde\lib\sharp-architecture\log4net.xml
+		..\FashionAde\lib\sharp-architecture\MbUnit.dll = ..\FashionAde\lib\sharp-architecture\MbUnit.dll
+		..\FashionAde\lib\sharp-architecture\Microsoft.Practices.ServiceLocation.dll = ..\FashionAde\lib\sharp-architecture\Microsoft.Practices.ServiceLocation.dll
+		..\FashionAde\lib\sharp-architecture\Microsoft.Web.Mvc.dll = ..\FashionAde\lib\sharp-architecture\Microsoft.Web.Mvc.dll
+		..\FashionAde\lib\sharp-architecture\MvcContrib.Castle.dll = ..\FashionAde\lib\sharp-architecture\MvcContrib.Castle.dll
+		..\FashionAde\lib\sharp-architecture\MvcContrib.Castle.xml = ..\FashionAde\lib\sharp-architecture\MvcContrib.Castle.xml
+		..\FashionAde\lib\sharp-architecture\MvcContrib.dll = ..\FashionAde\lib\sharp-architecture\MvcContrib.dll
+		..\FashionAde\lib\sharp-architecture\MvcContrib.FluentHtml.dll = ..\FashionAde\lib\sharp-architecture\MvcContrib.FluentHtml.dll
+		..\FashionAde\lib\sharp-architecture\MvcContrib.FluentHtml.xml = ..\FashionAde\lib\sharp-architecture\MvcContrib.FluentHtml.xml
+		..\FashionAde\lib\sharp-architecture\MvcContrib.TestHelper.dll = ..\FashionAde\lib\sharp-architecture\MvcContrib.TestHelper.dll
+		..\FashionAde\lib\sharp-architecture\MvcContrib.TestHelper.XML = ..\FashionAde\lib\sharp-architecture\MvcContrib.TestHelper.XML
+		..\FashionAde\lib\sharp-architecture\MvcContrib.XML = ..\FashionAde\lib\sharp-architecture\MvcContrib.XML
+		..\FashionAde\lib\sharp-architecture\MvcValidation.dll = ..\FashionAde\lib\sharp-architecture\MvcValidation.dll
+		..\FashionAde\lib\sharp-architecture\Newtonsoft.Json.dll = ..\FashionAde\lib\sharp-architecture\Newtonsoft.Json.dll
+		..\FashionAde\lib\sharp-architecture\Newtonsoft.Json.xml = ..\FashionAde\lib\sharp-architecture\Newtonsoft.Json.xml
+		..\FashionAde\lib\sharp-architecture\nhibernate-configuration.xsd = ..\FashionAde\lib\sharp-architecture\nhibernate-configuration.xsd
+		..\FashionAde\lib\sharp-architecture\nhibernate-mapping.xsd = ..\FashionAde\lib\sharp-architecture\nhibernate-mapping.xsd
+		..\FashionAde\lib\sharp-architecture\NHibernate.ByteCode.Castle.dll = ..\FashionAde\lib\sharp-architecture\NHibernate.ByteCode.Castle.dll
+		..\FashionAde\lib\sharp-architecture\NHibernate.ByteCode.Castle.xml = ..\FashionAde\lib\sharp-architecture\NHibernate.ByteCode.Castle.xml
+		..\FashionAde\lib\sharp-architecture\NHibernate.dll = ..\FashionAde\lib\sharp-architecture\NHibernate.dll
+		..\FashionAde\lib\sharp-architecture\NHibernate.license.txt = ..\FashionAde\lib\sharp-architecture\NHibernate.license.txt
+		..\FashionAde\lib\sharp-architecture\NHibernate.Linq.dll = ..\FashionAde\lib\sharp-architecture\NHibernate.Linq.dll
+		..\FashionAde\lib\sharp-architecture\NHibernate.Linq.xml = ..\FashionAde\lib\sharp-architecture\NHibernate.Linq.xml
+		..\FashionAde\lib\sharp-architecture\NHibernate.Validator.dll = ..\FashionAde\lib\sharp-architecture\NHibernate.Validator.dll
+		..\FashionAde\lib\sharp-architecture\NHibernate.Validator.xml = ..\FashionAde\lib\sharp-architecture\NHibernate.Validator.xml
+		..\FashionAde\lib\sharp-architecture\NHibernate.xml = ..\FashionAde\lib\sharp-architecture\NHibernate.xml
+		..\FashionAde\lib\sharp-architecture\nunit.framework.dll = ..\FashionAde\lib\sharp-architecture\nunit.framework.dll
+		..\FashionAde\lib\sharp-architecture\nunit.framework.xml = ..\FashionAde\lib\sharp-architecture\nunit.framework.xml
+		..\FashionAde\lib\sharp-architecture\ProjectBase.Utils.dll = ..\FashionAde\lib\sharp-architecture\ProjectBase.Utils.dll
+		..\FashionAde\lib\sharp-architecture\Rhino.Mocks.dll = ..\FashionAde\lib\sharp-architecture\Rhino.Mocks.dll
+		..\FashionAde\lib\sharp-architecture\Rhino.Mocks.xml = ..\FashionAde\lib\sharp-architecture\Rhino.Mocks.xml
+		..\FashionAde\lib\sharp-architecture\SharpArch.Core.dll = ..\FashionAde\lib\sharp-architecture\SharpArch.Core.dll
+		..\FashionAde\lib\sharp-architecture\SharpArch.Core.NHibernateValidator.dll = ..\FashionAde\lib\sharp-architecture\SharpArch.Core.NHibernateValidator.dll
+		..\FashionAde\lib\sharp-architecture\SharpArch.Core.NHibernateValidator.pdb = ..\FashionAde\lib\sharp-architecture\SharpArch.Core.NHibernateValidator.pdb
+		..\FashionAde\lib\sharp-architecture\SharpArch.Core.pdb = ..\FashionAde\lib\sharp-architecture\SharpArch.Core.pdb
+		..\FashionAde\lib\sharp-architecture\SharpArch.Data.dll = ..\FashionAde\lib\sharp-architecture\SharpArch.Data.dll
+		..\FashionAde\lib\sharp-architecture\SharpArch.Data.pdb = ..\FashionAde\lib\sharp-architecture\SharpArch.Data.pdb
+		..\FashionAde\lib\sharp-architecture\SharpArch.Testing.dll = ..\FashionAde\lib\sharp-architecture\SharpArch.Testing.dll
+		..\FashionAde\lib\sharp-architecture\SharpArch.Testing.MbUnit.dll = ..\FashionAde\lib\sharp-architecture\SharpArch.Testing.MbUnit.dll
+		..\FashionAde\lib\sharp-architecture\SharpArch.Testing.MbUnit.pdb = ..\FashionAde\lib\sharp-architecture\SharpArch.Testing.MbUnit.pdb
+		..\FashionAde\lib\sharp-architecture\SharpArch.Testing.NUnit.dll = ..\FashionAde\lib\sharp-architecture\SharpArch.Testing.NUnit.dll
+		..\FashionAde\lib\sharp-architecture\SharpArch.Testing.NUnit.pdb = ..\FashionAde\lib\sharp-architecture\SharpArch.Testing.NUnit.pdb
+		..\FashionAde\lib\sharp-architecture\SharpArch.Testing.pdb = ..\FashionAde\lib\sharp-architecture\SharpArch.Testing.pdb
+		..\FashionAde\lib\sharp-architecture\SharpArch.Wcf.dll = ..\FashionAde\lib\sharp-architecture\SharpArch.Wcf.dll
+		..\FashionAde\lib\sharp-architecture\SharpArch.Wcf.pdb = ..\FashionAde\lib\sharp-architecture\SharpArch.Wcf.pdb
+		..\FashionAde\lib\sharp-architecture\SharpArch.WcfClient.Castle.dll = ..\FashionAde\lib\sharp-architecture\SharpArch.WcfClient.Castle.dll
+		..\FashionAde\lib\sharp-architecture\SharpArch.WcfClient.Castle.pdb = ..\FashionAde\lib\sharp-architecture\SharpArch.WcfClient.Castle.pdb
+		..\FashionAde\lib\sharp-architecture\SharpArch.Web.Castle.dll = ..\FashionAde\lib\sharp-architecture\SharpArch.Web.Castle.dll
+		..\FashionAde\lib\sharp-architecture\SharpArch.Web.Castle.pdb = ..\FashionAde\lib\sharp-architecture\SharpArch.Web.Castle.pdb
+		..\FashionAde\lib\sharp-architecture\SharpArch.Web.dll = ..\FashionAde\lib\sharp-architecture\SharpArch.Web.dll
+		..\FashionAde\lib\sharp-architecture\SharpArch.Web.pdb = ..\FashionAde\lib\sharp-architecture\SharpArch.Web.pdb
+		..\FashionAde\lib\sharp-architecture\System.Data.SQLite.DLL = ..\FashionAde\lib\sharp-architecture\System.Data.SQLite.DLL
+		..\FashionAde\lib\sharp-architecture\System.Web.Abstractions.dll = ..\FashionAde\lib\sharp-architecture\System.Web.Abstractions.dll
+		..\FashionAde\lib\sharp-architecture\System.Web.Mvc.dll = ..\FashionAde\lib\sharp-architecture\System.Web.Mvc.dll
+		..\FashionAde\lib\sharp-architecture\System.Web.Mvc.xml = ..\FashionAde\lib\sharp-architecture\System.Web.Mvc.xml
+		..\FashionAde\lib\sharp-architecture\System.Web.Routing.dll = ..\FashionAde\lib\sharp-architecture\System.Web.Routing.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754A1E74-F50B-4C33-BBC3-1AD0BFC2298F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754A1E74-F50B-4C33-BBC3-1AD0BFC2298F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754A1E74-F50B-4C33-BBC3-1AD0BFC2298F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754A1E74-F50B-4C33-BBC3-1AD0BFC2298F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E934CDD4-A07B-4E88-8FE0-63B7B96C2973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E934CDD4-A07B-4E88-8FE0-63B7B96C2973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E934CDD4-A07B-4E88-8FE0-63B7B96C2973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E934CDD4-A07B-4E88-8FE0-63B7B96C2973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7845F2A-45DD-4874-88A6-99CA9BD7CF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7845F2A-45DD-4874-88A6-99CA9BD7CF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7845F2A-45DD-4874-88A6-99CA9BD7CF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7845F2A-45DD-4874-88A6-99CA9BD7CF81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6429EF2-77C8-4D3A-BB8C-886082CB0645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6429EF2-77C8-4D3A-BB8C-886082CB0645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6429EF2-77C8-4D3A-BB8C-886082CB0645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6429EF2-77C8-4D3A-BB8C-886082CB0645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF38A9C7-58B4-46D1-9B90-6F3176F306FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF38A9C7-58B4-46D1-9B90-6F3176F306FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF38A9C7-58B4-46D1-9B90-6F3176F306FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF38A9C7-58B4-46D1-9B90-6F3176F306FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1638968D-DC38-4D76-AC43-95602DA5AB6E} = {0CF7C6DA-0A9F-4E1F-B8DB-A2A88EE0C5A5}
+	EndGlobalSection
+EndGlobal

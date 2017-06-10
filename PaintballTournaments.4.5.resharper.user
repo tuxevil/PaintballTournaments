@@ -1,0 +1,234 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:Tournaments/f:SubMode.cs" caret="0" fromTop="0" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:Tournaments/f:Bunker.cs" caret="554" fromTop="24" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:DataInterfaces/f:IBunkerPositionRepository.cs" caret="311" fromTop="9" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:DataInterfaces/f:IFieldRepository.cs" caret="293" fromTop="9" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:DataInterfaces/f:ILayoutTemplateRepository.cs" caret="311" fromTop="9" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:DataInterfaces/f:ILayoutRepository.cs" caret="295" fromTop="9" />
+      <File id="DF38A9C7-58B4-46D1-9B90-6F3176F306FB/d:Repository/f:LayoutTemplateRepository.cs" caret="369" fromTop="10" />
+      <File id="DF38A9C7-58B4-46D1-9B90-6F3176F306FB/d:Repository/f:BunkerPositionRepository.cs" caret="416" fromTop="12" />
+      <File id="DF38A9C7-58B4-46D1-9B90-6F3176F306FB/d:Repository/f:FieldRepository.cs" caret="380" fromTop="12" />
+      <File id="DF38A9C7-58B4-46D1-9B90-6F3176F306FB/d:Repository/f:LayoutRepository.cs" caret="640" fromTop="21" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:Commercials/f:Field.cs" caret="408" fromTop="18" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:Commercials/f:SponsorType.cs" caret="240" fromTop="11" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:Locations/f:City.cs" caret="0" fromTop="0" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:DataInterfaces/f:IBunkerRepository.cs" caret="295" fromTop="9" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:DataInterfaces/f:ICityRepository.cs" caret="289" fromTop="9" />
+      <File id="DF38A9C7-58B4-46D1-9B90-6F3176F306FB/d:Repository/f:CityRepository.cs" caret="374" fromTop="12" />
+      <File id="DF38A9C7-58B4-46D1-9B90-6F3176F306FB/d:Repository/f:BunkerRepository.cs" caret="628" fromTop="18" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:Locations/f:BasicLocation.cs" caret="0" fromTop="0" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:CastleWindsor/f:ComponentRegistrar.cs" caret="0" fromTop="0" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/f:Web.config" caret="11967" fromTop="39" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:Tournaments/f:BunkerPosition.cs" caret="913" fromTop="27" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:Tournaments/f:LayoutTemplate.cs" caret="864" fromTop="32" />
+      <File id="DF38A9C7-58B4-46D1-9B90-6F3176F306FB/d:NHibernateMaps/f:AutoPersistenceModelGenerator.cs" caret="1010" fromTop="23" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Shared/f:LayoutTemplate.ascx" caret="289" fromTop="3" />
+      <File id="B6429EF2-77C8-4D3A-BB8C-886082CB0645/d:Tournaments/f:Layout.cs" caret="2200" fromTop="48" />
+      <File id="B7845F2A-45DD-4874-88A6-99CA9BD7CF81/d:MVCInteraction/f:Resources.cs" caret="690" fromTop="24" />
+      <File id="B7845F2A-45DD-4874-88A6-99CA9BD7CF81/f:LayoutController.cs" caret="1494" fromTop="33" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Shared/f:Bunker.ascx" caret="0" fromTop="0" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:css/f:site.css" caret="5340" fromTop="30" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="2471" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:css/f:site.css" caret="6593" fromTop="48" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:css/f:site.css" caret="6487" fromTop="40" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="3332" fromTop="22" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="3947" fromTop="39" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="1367" fromTop="32" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="430" fromTop="10" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="705" fromTop="16" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:css/f:site.css" caret="5603" fromTop="27" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:css/f:site.css" caret="5821" fromTop="43" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:css/f:site.css" caret="6089" fromTop="45" />
+      <File id="B7845F2A-45DD-4874-88A6-99CA9BD7CF81/d:MVCInteraction/f:Resources.cs" caret="690" fromTop="24" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Shared/f:Bunker.ascx" caret="415" fromTop="4" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:css/f:site.css" caret="5435" fromTop="40" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:css/f:site.css" caret="5435" fromTop="38" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:css/f:site.css" caret="5404" fromTop="33" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="1998" fromTop="27" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="1959" fromTop="31" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="1959" fromTop="30" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="1959" fromTop="32" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="1959" fromTop="27" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="2660" fromTop="22" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="1301" fromTop="30" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="1937" fromTop="20" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="3023" fromTop="30" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="2864" fromTop="25" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="1725" fromTop="10" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="2018" fromTop="11" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:css/f:site.css" caret="5340" fromTop="30" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="2676" fromTop="26" />
+      <File id="754A1E74-F50B-4C33-BBC3-1AD0BFC2298F/d:Views/d:Layout/f:Index.aspx" caret="2471" fromTop="22" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="IList" priority="4" />
+      <Item value="public" priority="6" />
+      <Item value="void" priority="5" />
+      <Item value="City" priority="0" />
+      <Item value="city" priority="1" />
+      <Item value="this" priority="9" />
+      <Item value="State" priority="0" />
+      <Item value="state" priority="1" />
+      <Item value="private" priority="8" />
+      <Item value="int" priority="3" />
+      <Item value="Player" priority="1" />
+      <Item value="new" priority="1" />
+      <Item value="List&lt;Player&gt;" priority="0" />
+      <Item value="player" priority="2" />
+      <Item value="if" priority="0" />
+      <Item value="Fixture" priority="0" />
+      <Item value="fixtureSelection" priority="0" />
+      <Item value="position" priority="1" />
+      <Item value="GetPosition" priority="0" />
+      <Item value="positionsUsed" priority="0" />
+      <Item value="League" priority="2" />
+      <Item value="league" priority="4" />
+      <Item value="sponsors" priority="0" />
+      <Item value="subMode" priority="0" />
+      <Item value="foreach" priority="5" />
+      <Item value="prize" priority="0" />
+      <Item value="sponsor" priority="0" />
+      <Item value="Session" priority="1" />
+      <Item value="Event" priority="1" />
+      <Item value="events" priority="0" />
+      <Item value="@event" priority="1" />
+      <Item value="Category" priority="0" />
+      <Item value="categories" priority="0" />
+      <Item value="category" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="NHibernate" priority="1" />
+      <Item value="Dialect" priority="0" />
+      <Item value="MsSql2005Dialect" priority="0" />
+      <Item value="Connection" priority="0" />
+      <Item value="Driver" priority="0" />
+      <Item value="SqlClientDriver" priority="0" />
+      <Item value="layout" priority="1" />
+      <Item value="Model" priority="5" />
+      <Item value="bunker" priority="3" />
+      <Item value="Bunker" priority="3" />
+      <Item value="BunkerRepository" priority="0" />
+      <Item value="LayoutController" priority="1" />
+      <Item value="IBunkerRepository" priority="0" />
+      <Item value="bunkerRepository" priority="2" />
+      <Item value="ILayoutRepository" priority="1" />
+      <Item value="layoutRepository" priority="3" />
+      <Item value="ViewData" priority="3" />
+      <Item value="List" priority="1" />
+      <Item value="RenderControl" priority="0" />
+      <Item value="Render" priority="0" />
+      <Item value="Html" priority="0" />
+      <Item value="Layout" priority="0" />
+      <Item value="IBunkerPositionRepository" priority="1" />
+      <Item value="IFieldRepository" priority="1" />
+      <Item value="ILayoutTemplateRepository" priority="1" />
+      <Item value="bunkerPositionRepository" priority="2" />
+      <Item value="fieldRepository" priority="3" />
+      <Item value="layoutTemplateRepository" priority="3" />
+      <Item value="ICityRepository" priority="1" />
+      <Item value="cityRepository" priority="2" />
+      <Item value="string" priority="0" />
+      <Item value="LayoutTemplate" priority="2" />
+      <Item value="layoutTemplate" priority="1" />
+      <Item value="Resources" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.Locations.State">
+      <Item value="cities" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.Locations.Country">
+      <Item value="states" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.Tournaments.Category">
+      <Item value="TopPlayers" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.Accounts.Player">
+      <Item value="Team" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.Groups.Selection">
+      <Item value="team" priority="0" />
+      <Item value="AddTopPlayer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.Tournaments.FixtureSelection">
+      <Item value="FixturePosition" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Mvc.HtmlHelper`1">
+      <Item value="DropDownList" priority="2" />
+      <Item value="TextArea" priority="0" />
+      <Item value="RenderPartial" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Web.Mvc.HttpVerbs">
+      <Item value="Post" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.Tournaments.League">
+      <Item value="AddPrize" priority="0" />
+      <Item value="AddSponsor" priority="0" />
+      <Item value="AddEvent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.Tournaments.Event">
+      <Item value="AddCategory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.Tournaments.Bunker">
+      <Item value="ImageUri" priority="3" />
+      <Item value="Name" priority="1" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@PaintballTournaments.Web.Controllers.MVCInteraction.Resources">
+      <Item value="GetBunkerPath" priority="1" />
+      <Item value="GetBunkerThumbnailPath" priority="1" />
+      <Item value="GetLayoutTemplatePath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Web.Controllers.LayoutController">
+      <Item value="bunkerRepository" priority="0" />
+      <Item value="layoutRepository" priority="0" />
+      <Item value="bunkerPositionRepository" priority="0" />
+      <Item value="fieldRepository" priority="0" />
+      <Item value="layoutTemplateRepository" priority="0" />
+      <Item value="cityRepository" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.DataInterfaces.IBunkerRepository">
+      <Item value="GetAll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.DataInterfaces.ILayoutRepository">
+      <Item value="SaveOrUpdate" priority="0" />
+      <Item value="GetAll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.DataInterfaces.IBunkerPositionRepository">
+      <Item value="GetAll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.DataInterfaces.IFieldRepository">
+      <Item value="GetAll" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.DataInterfaces.ILayoutTemplateRepository">
+      <Item value="GetAll" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.DataInterfaces.ICityRepository">
+      <Item value="GetAll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:PaintballTournaments.Core.Tournaments.LayoutTemplate">
+      <Item value="Id" priority="0" />
+      <Item value="Creator" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

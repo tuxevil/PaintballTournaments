@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/nybble/!svn/ver/3372/FashionAde/trunk/lib/sharp-architecture
+END
+MvcContrib.Castle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/MvcContrib.Castle.xml
+END
+Gallio.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Gallio.dll
+END
+System.Web.Mvc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/System.Web.Mvc.xml
+END
+MvcContrib.TestHelper.XML
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/MvcContrib.TestHelper.XML
+END
+Microsoft.Practices.ServiceLocation.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Microsoft.Practices.ServiceLocation.dll
+END
+NHibernate.ByteCode.Castle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/NHibernate.ByteCode.Castle.xml
+END
+nunit.framework.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/nunit.framework.xml
+END
+Rhino.Mocks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Rhino.Mocks.xml
+END
+NHibernate.Linq.dll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/NHibernate.Linq.dll
+END
+SharpArch.Wcf.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Wcf.pdb
+END
+Castle.Windsor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Castle.Windsor.xml
+END
+Antlr3.Runtime.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Antlr3.Runtime.dll
+END
+Castle.Services.Logging.Log4netIntegration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Castle.Services.Logging.Log4netIntegration.xml
+END
+Castle.Core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Castle.Core.xml
+END
+SharpArch.Wcf.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Wcf.dll
+END
+Iesi.Collections.license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Iesi.Collections.license.txt
+END
+SharpArch.WcfClient.Castle.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.WcfClient.Castle.pdb
+END
+MbUnit.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/MbUnit.dll
+END
+log4net.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/log4net.xml
+END
+SharpArch.WcfClient.Castle.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.WcfClient.Castle.dll
+END
+NHibernate.Validator.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/NHibernate.Validator.dll
+END
+NHibernate.license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/NHibernate.license.txt
+END
+MvcContrib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/MvcContrib.dll
+END
+Castle.DynamicProxy2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Castle.DynamicProxy2.xml
+END
+Castle.MicroKernel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Castle.MicroKernel.xml
+END
+SharpArch.Testing.NUnit.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Testing.NUnit.pdb
+END
+SharpArch.Core.NHibernateValidator.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Core.NHibernateValidator.pdb
+END
+FluentNHibernate.XML
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/FluentNHibernate.XML
+END
+SharpArch.Testing.NUnit.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Testing.NUnit.dll
+END
+Castle.Components.Validator.dll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/nybble/!svn/ver/3341/FashionAde/trunk/lib/sharp-architecture/Castle.Components.Validator.dll
+END
+MvcContrib.TestHelper.dll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/MvcContrib.TestHelper.dll
+END
+SharpArch.Core.NHibernateValidator.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Core.NHibernateValidator.dll
+END
+MvcContrib.FluentHtml.dll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/MvcContrib.FluentHtml.dll
+END
+SharpArch.Core.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Core.pdb
+END
+ProjectBase.Utils.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nybble/!svn/ver/3372/FashionAde/trunk/lib/sharp-architecture/ProjectBase.Utils.dll
+END
+log4net.license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/log4net.license.txt
+END
+SharpArch.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Core.dll
+END
+Iesi.Collections.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Iesi.Collections.dll
+END
+NHibernate.Linq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/NHibernate.Linq.xml
+END
+Inflector.Net.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Inflector.Net.dll
+END
+SharpArch.Data.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Data.pdb
+END
+Newtonsoft.Json.dll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Newtonsoft.Json.dll
+END
+NHibernate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/NHibernate.dll
+END
+MvcContrib.Castle.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/MvcContrib.Castle.dll
+END
+SharpArch.Testing.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Testing.pdb
+END
+SharpArch.Web.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Web.pdb
+END
+CommonServiceLocator.WindsorAdapter.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/CommonServiceLocator.WindsorAdapter.dll
+END
+SharpArch.Data.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Data.dll
+END
+System.Web.Mvc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/System.Web.Mvc.dll
+END
+NHibernate.ByteCode.Castle.dll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/NHibernate.ByteCode.Castle.dll
+END
+SharpArch.Testing.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Testing.dll
+END
+SharpArch.Web.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Web.dll
+END
+NHibernate.Validator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/NHibernate.Validator.xml
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/nunit.framework.dll
+END
+Rhino.Mocks.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Rhino.Mocks.dll
+END
+nhibernate-mapping.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/nhibernate-mapping.xsd
+END
+SharpArch.Web.Castle.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Web.Castle.pdb
+END
+System.Data.SQLite.DLL
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/System.Data.SQLite.DLL
+END
+FluentNHibernate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/FluentNHibernate.dll
+END
+Castle.Windsor.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Castle.Windsor.dll
+END
+Castle.Services.Logging.Log4netIntegration.dll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Castle.Services.Logging.Log4netIntegration.dll
+END
+SharpArch.Web.Castle.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Web.Castle.dll
+END
+Castle.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Castle.Core.dll
+END
+Microsoft.Web.Mvc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Microsoft.Web.Mvc.dll
+END
+nhibernate-configuration.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/nhibernate-configuration.xsd
+END
+MvcContrib.FluentHtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/MvcContrib.FluentHtml.xml
+END
+log4net.dll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/log4net.dll
+END
+SharpArch.Testing.MbUnit.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Testing.MbUnit.pdb
+END
+Castle.DynamicProxy2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Castle.DynamicProxy2.dll
+END
+SharpArch.Testing.MbUnit.dll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/SharpArch.Testing.MbUnit.dll
+END
+Castle.MicroKernel.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Castle.MicroKernel.dll
+END
+Castle.DynamicProxy.license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Castle.DynamicProxy.license.txt
+END
+System.Web.Routing.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/System.Web.Routing.dll
+END
+Iesi.Collections.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Iesi.Collections.xml
+END
+MvcContrib.XML
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/MvcContrib.XML
+END
+System.Web.Abstractions.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/System.Web.Abstractions.dll
+END
+MvcValidation.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/nybble/!svn/ver/3341/FashionAde/trunk/lib/sharp-architecture/MvcValidation.dll
+END
+Newtonsoft.Json.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/Newtonsoft.Json.xml
+END
+NHibernate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/nybble/!svn/ver/2981/FashionAde/trunk/lib/sharp-architecture/NHibernate.xml
+END
